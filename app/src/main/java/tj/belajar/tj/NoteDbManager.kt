@@ -7,7 +7,6 @@ import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import android.widget.Toast
 
-//CREATE BY AZHAR RIVALDI, 16/01/2019
 
 class NoteDbManager {
 

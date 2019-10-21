@@ -1,6 +1,5 @@
 package tj.belajar.tj
 
-//CREATE BY AZHAR RIVALDI, 16/01/2019
 
 class Note {
 
